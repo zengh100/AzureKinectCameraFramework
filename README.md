@@ -1,5 +1,5 @@
-# Azure Kinect Camera Framework
-A framework to read, display, and processing sensor data (imu, infrared, depth, 3D point cloud, and color image) from Microsoft Azure Kinect camera.
+# Azure Kinect Camera Framework for OpenCV
+A framework to read, display (in OpenCV), and processing sensor data (imu, infrared, depth, 3D point cloud, and color image) from Microsoft Azure Kinect camera.
 ```
 //This class is to demo how to register your class member function to received data event from camera online/offline
 class TestClass_CameraDataEventListener
